@@ -1,3 +1,8 @@
+---
+name: codex-dev
+description: Delegate bounded coding tasks to Codex (OpenAI). CC scopes the work, Codex writes the code, CC verifies the output. Cross-model review catches blindspots that same-model review misses. Use when user says "let codex write this", "codex dev", "delegate to codex", or when CC has scoped a self-contained implementation task with clear file boundaries.
+---
+
 # Codex Dev — CC orchestrate, Codex implement, CC verify
 
 Delegate a bounded coding task to Codex (OpenAI). CC scopes the work, Codex writes the code, CC verifies the output. Cross-model review catches blindspots that same-model review misses.
